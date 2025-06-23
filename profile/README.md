@@ -10,9 +10,9 @@ We are a team of 3 enthusiastic AI practitioners who are passionate about explor
 
 | Member | Role | Interests |
 |--------|------|-----------|
-| Sourangshu Pal | Team Lead | Deep Learning, Model Optimization |
-| Riyaz Khorasi | Research Analyst | Natural Language Processing, Ethics in AI |
-| Prashant Khare | Developer | Computer Vision, MLOps |
+| Sourangshu Pal | Senior Visual Computing Engineer | Deep Learning, Model Optimization |
+| Riyaz Khorasi | Data Scientist | Natural Language Processing, Ethics in AI |
+| Prashant Khare | Senior Architect | Computer Vision, MLOps |
 
 ---
 
